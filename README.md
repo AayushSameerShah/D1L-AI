@@ -1,2 +1,2 @@
-# D1L-AI
+# D2L-AI
 The tests and examples for deep learning while learning from https://d2l.ai/
